@@ -1,5 +1,5 @@
 # Arduino Examples
-Various Arduino examples from the course "Applied Sensor Technology and Electronics".
+Various Arduino examples from the course "Applied Sensorics and Electronics"".
 
 ## Prerequisites
 
