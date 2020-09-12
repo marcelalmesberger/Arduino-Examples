@@ -1,6 +1,10 @@
 # Arduino Examples
 Various Arduino examples from the course "Applied Sensorics and Electronics"".
 
+## Used technologies
+
+C++, Microcontroller Arduino, Arduino IDE
+
 ## Prerequisites
 
 1. Have an Arduino UNO kit or similar microcontroller. See the [official Arduino website](https://www.arduino.cc/) for more information
