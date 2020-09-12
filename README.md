@@ -3,7 +3,7 @@ Various Arduino examples from the course "Applied Sensorics and Electronics"".
 
 ## Used technologies
 
-C++, Microcontroller Arduino, Arduino IDE
+C++, Arduino, Arduino IDE
 
 ## Prerequisites
 
